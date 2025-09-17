@@ -21,7 +21,13 @@ In this project, I performed **Exploratory Data Analysis ( EDA )** on a sales da
 
 These steps were accomplished using a combination of data transformations, imputation techniques, and visualizations to get a comprehensive understanding of the dataset.
 
-**Important :** Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a file-not-found error.
+### How to run the code :
+
+Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a file-not-found error. Also make sure all the necessary **Python libraries** mentioned in (#overview-of-eda-on-sales-data) are already installed.
+
+You can run the notebook directly in Jupyter or use an online service like [Google Colab](https://colab.research.google.com) by uploading the notebook file.
+
+Click here to open the notebook (EDA on Sales Data.ipynb)(./EDA on Sales Data.ipynb)
 
 ---
 

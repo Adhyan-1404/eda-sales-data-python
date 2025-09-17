@@ -17,7 +17,7 @@ In this project, popular Python libraries which are utilized for data manipulati
 **Note:** The `warnings` module in Python is used to manage and suppress warning messages during execution.
 <br><br>
 
-## Key Steps Performed :
+## Key Steps Performed 
 
 * Handling and imputing **Missing Values** to ensure dataset completeness.
 * **Feature Engineering** to create meaningful variables for machine learning models
@@ -29,7 +29,7 @@ In this project, popular Python libraries which are utilized for data manipulati
 These steps were accomplished using a combination of data transformations, imputation techniques, and visualizations to get a comprehensive understanding of the dataset.
 <br><br>
 
-## How to run the code :
+## How to run the code 
 
 Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a **error**. Also make sure all the necessary **Python libraries** mentioned in [Overview](#overview) are already installed.
 
@@ -40,7 +40,7 @@ You can run the notebook directly in Jupyter or use an online service like [Goog
 
 ---
 
-## Repository Files :
+## Repository Files 
 
 * `EDA on Sales Data.ipynb` – Jupyter Notebook containing the full code and detailed workflow of the data cleaning and EDA process.
 * `EDA on Sales Data.html` – Rendered HTML version of the notebook showcasing code and output (non-editable).

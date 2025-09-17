@@ -13,7 +13,6 @@ In this project, popular Python libraries which are utilized for data manipulati
 * **Seaborn**
 
 **Note:** The `warnings` module in Python is used to manage and suppress warning messages during execution.
-
 <br>
 
 ## Key Steps Performed :
@@ -26,7 +25,6 @@ In this project, popular Python libraries which are utilized for data manipulati
 * Reducing **Skewness** and applying **Transformations** to approximate **Normality**, optimizing model performance
 
 These steps were accomplished using a combination of data transformations, imputation techniques, and visualizations to get a comprehensive understanding of the dataset.
-
 <br>
 
 ## How to run the code :

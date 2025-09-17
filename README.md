@@ -29,7 +29,7 @@ In this project, popular Python libraries which are utilized for data manipulati
 These steps were accomplished using a combination of data transformations, imputation techniques, and visualizations to get a comprehensive understanding of the dataset.
 <br><br>
 
-## How to run the code 
+## How to run this code 
 
 Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a **error**. Also make sure all the necessary **Python libraries** mentioned in [Overview](#overview) are already installed.
 

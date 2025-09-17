@@ -14,8 +14,7 @@ In this project, popular Python libraries which are utilized for data manipulati
 
 **Note:** The `warnings` module in Python is used to manage and suppress warning messages during execution.
 
-### Key Steps Performed :
--------------------------
+### <u>Key Steps Performed :</u>
 
 * Handling and imputing **Missing Values** to ensure dataset completeness.
 * **Feature Engineering** to create meaningful variables for machine learning models

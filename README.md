@@ -1,7 +1,7 @@
 
 # EDA on Sales Data 
 
-## Overview :
+## Overview 
 
 This project performs Exploratory Data Analysis (EDA) focused on cleaning and preprocessing a raw sales dataset (`k_circle_sales.csv`) sourced from Kaggle. 
 The primary goal is to transform raw, messy sales data into a consistent, structured, and machine-learning-ready format. 
@@ -31,7 +31,7 @@ These steps were accomplished using a combination of data transformations, imput
 
 ## How to run the code :
 
-Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a **error**. Also make sure all the necessary **Python libraries** mentioned in [Overview](#Overview) are already installed.
+Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a **error**. Also make sure all the necessary **Python libraries** mentioned in [Overview](#overview) are already installed.
 
 You can run the notebook directly in Jupyter or use an online service like [Google Colab](https://colab.research.google.com) by uploading the notebook file.
 

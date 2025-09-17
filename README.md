@@ -31,7 +31,8 @@ Make sure to update the **file path** for `k_circle_sales.csv` in the notebook *
 
 You can run the notebook directly in Jupyter or use an online service like [Google Colab](https://colab.research.google.com) by uploading the notebook file.
 
-[Click here to open the notebook (EDA on Sales Data.ipynb)](./EDA%20on%20Sales%20Data.ipynb)
+* Interactive Notebook : [Click to Open](./eda_sales_data.ipynb)
+* Static HTML : [Click to Open](./eda_sales_data.html)
 
 ---
 

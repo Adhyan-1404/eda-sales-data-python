@@ -74,7 +74,7 @@ These steps were accomplished using a combination of data transformations, imput
 
 <h2><a class="anchor" id="notes"></a>Notes</h2>
 
-- Data cleaning and preprocessing were performed entirely in Python using Pandas and related libraries.
+- Data cleaning and preprocessing were performed entirely in Python using related libraries.
 - Visualizations and insights aim to support strategic decision-making and predictive model development.
 - The notebook environment (Jupyter/Colab) facilitates interactive exploration and reproducibility.
 
@@ -82,7 +82,7 @@ These steps were accomplished using a combination of data transformations, imput
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
-Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a **error**. Also make sure all the necessary **Python libraries** mentioned in [Overview](#overview) are already installed.
+Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a **error**. Also make sure all the necessary **Python libraries** mentioned in [Tools & Technologies](#tools--technologies) are already installed.
 
 You can run the notebook directly in Jupyter or use an online service like [Google Colab](https://colab.research.google.com) by uploading the notebook file.
 

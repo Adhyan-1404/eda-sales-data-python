@@ -38,13 +38,13 @@ This preparation ensures high data quality for downstream predictive modeling an
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
-1. Python (core language)
+1. Python (core language) with key libraries :
    - NumPy (numerical computing)
    - Pandas (data manipulation)
    - Matplotlib and Seaborn (visualization)
    - Warnings module (to manage runtime warnings)
 
-2. IDEs
+2. IDEs :
    - Jupyter Notebook
    - VScode
 
@@ -65,8 +65,8 @@ These steps were accomplished using a combination of data transformations, imput
 
 <h2><a class="anchor" id="repository-files"></a>Repository Files</h2>
 
-* `EDA on Sales Data.ipynb` – Jupyter Notebook containing the full code and detailed workflow of the data cleaning and EDA process.
-* `EDA on Sales Data.html` – Rendered HTML version of the notebook showcasing code and output (non-editable).
+* `eda_sales_data.ipynb` – Jupyter Notebook containing the full code and detailed workflow of the data cleaning and EDA process.
+* `eda_sales_data.html` – Rendered HTML version of the notebook showcasing code and output (non-editable).
 * `k_circle_sales.csv` - Raw sales data sourced from Kaggle.
 * `README.md` - This project overview.
 

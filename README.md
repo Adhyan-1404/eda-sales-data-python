@@ -75,6 +75,7 @@ These steps were accomplished using a combination of data transformations, imput
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 eda-sales-data-python/
+|
 ├── README.md
 ├── eda_sales_data.html
 ├── eda_sales_data.ipynb

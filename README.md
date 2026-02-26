@@ -11,6 +11,7 @@ _Analyzing sales data to deliver clean, actionable insights and prepare for pred
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#key-steps-performed">Key Steps Performed</a>
 - <a href="#repository-files">Repository Files</a>
+- <a href="#project-structure">Project Structure</a>
 - <a href="#notes">Notes</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
@@ -69,6 +70,15 @@ These steps were accomplished using a combination of data transformations, imput
 * `eda_sales_data.html` – Rendered HTML version of the notebook showcasing code and output (non-editable).
 * `k_circle_sales.csv` - Raw sales data sourced from Kaggle.
 * `README.md` - This project overview.
+
+---
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+eda-sales-data-python/
+├── README.md
+├── eda_sales_data.html
+├── eda_sales_data.ipynb
+└── k_circle_sales.csv
 
 ---
 

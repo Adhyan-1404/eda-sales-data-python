@@ -96,8 +96,8 @@ eda-sales-data-python/
 
 Make sure to update the **file path** for `k_circle_sales.csv` in the notebook **EDA on Sales Data.ipynb** to match your local directory. Failing to do so will result in a **error**. Also make sure all the necessary **Python libraries** mentioned in [Tools & Technologies](#tools--technologies) are already installed.
 
+   - bash
    ```
-   bash
    pip install numpy pandas matplotlib seaborn
    ```
 

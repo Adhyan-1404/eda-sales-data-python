@@ -1,0 +1,4 @@
+# Hiding HTML tag
+
+*.html linguist-generated=true
+*.html linguist-documentation=false
